@@ -1,0 +1,204 @@
+
+
+header img{
+height: 40px;
+   width: 40px;
+
+  display:inline;
+   
+
+  
+  
+
+   
+   
+   
+  
+  
+  }
+
+
+header{
+border: 0px solid red;
+  
+   height:50px;
+  width:100%;
+  
+   
+  
+  padding-left:0;
+  padding-bottom:0;
+  padding-right:0;
+  padding-top:10px;
+  
+  
+}
+body{
+  margin:0;
+  padding:0;
+  }
+
+ 
+
+
+.icons-img{
+  display: inline;
+
+  
+
+  
+  
+  
+}
+
+  .derecha{
+float: right;
+  border:1px solid gray;
+margin-right: 10px;
+    height:40px;
+
+    }
+.izquierda{
+  float: left;
+  
+  margin-left: 10px;
+  
+  }
+.primera{
+  background-color:blue;
+  height: 40rem;
+  width: 100%;
+  background-image: url("primera.jpg");
+  
+  
+
+
+  
+  
+  
+         }
+div[class="primera"] img{
+  width: 100%;
+  height: 40rem;
+  
+
+
+  }
+
+.segunda{
+
+  
+  
+
+  height:40rem;
+  width: 100%;
+  background-color:red;
+  
+  
+  
+}
+
+
+.tercera{
+ background-color:blue;
+  height: 40rem;
+  width: 100%;
+  
+  
+  }
+.arculo{
+  
+  
+  
+  
+  
+  }
+
+#contactoCabecera{
+    text-align:center;
+  background-color: red;
+  color: white;
+
+
+  
+  }
+
+div[class="primera"] h1,div[class="primera"] button{ font-family:"Roboto";
+  color:white;
+text-align:center;
+
+  }
+div[id="btnsInformacionPrimera"] button{
+     display:block;
+  
+     margin: 0 auto  ;
+     height: 50px;
+  font-size:20px;
+  background-color:transparent;
+  border:3px solid white;
+  border-radius: 30px;
+  
+  
+     
+  
+  }
+#btnsInformacionPrimera{
+  padding-top: 50%;
+  
+  
+
+}
+div[class="primera"] button{
+   margin:30px auto; 
+ padding-left:10px;
+  padding-right: 15px;
+  
+  }
+div[id="btnsInformacionPrimera"] h1{
+
+  font-size: 40px;
+  
+}
+
+#btnContacto{
+  background-color: red;
+  border:0px solid red;
+
+  }
+  
+img[src="menu.png"]{
+
+  height:30px;
+  margin: 5px;
+  
+} 
+h1,p {
+  
+  margin: 0;
+  text-align:center;
+  
+  }
+
+#contenido_segunda{
+
+
+  margin:0;
+  height: 40rem;
+  padding-top: 30% ;
+  padding-left:1.5rem;
+  padding-right: 1.5rem;
+  
+
+}
+
+div[id="contenido_segunda"] h1{
+color:white;
+  margin:20px 100px;
+}
+
+div[id="contenido_segunda"] p{
+
+color:white;
+
+  
+}
